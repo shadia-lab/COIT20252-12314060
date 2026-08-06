@@ -46,7 +46,7 @@ Amazon (2025a) Amazon announces AI-powered innovations in delivery, inventory, r
 
 Amazon (2025b) Introducing Blue Jay and Project Eluna, Amazon's latest robotics and AI technology for its operations. Available at: https://www.aboutamazon.com/news/operations/new-robots-amazon-fulfillment-agentic-ai (Accessed: 25 July 2026).
 
-de Oliveira, R.A., de Paulo Ribeiro, J. and Scalabrin, E.E. (2026) 'Bottleneck analysis in software development: a case study using process mining', in Rutkowski, L. et al. (eds) Artificial Intelligence and Soft Computing, ICAISC 2025. Lecture Notes in Computer Science, vol. 15949. Cham: Springer, pp. 267–278.
+van der Aalst, W 2026, Introduction to the Process Mining Tool ProM for the Summer School on Process Mining (2026), video, YouTube, 22 June, viewed 6 August 2026, <https://www.youtube.com/watch?v=w7dKYFdR9C0>.
 
 Kazinik, B. (2025) Business process analysis: what it is and why it matters. monday.com. Available at: https://monday.com/blog/project-management/business-process-analysis/ (Accessed: 25 July 2026).
  
