@@ -42,11 +42,12 @@ I chose this artefact because it reinforced the core definition and strategic pu
 Within the broader BPM framework, I now understand that evaluating the end-to-end activities is what ensures a process consistently delivers measurable value. Analyzing the four 2025–2026 artifacts allowed me to bridge theory with practice, seeing firsthand how these principles play out in real-world scenarios. Now, I can clearly see how identifying bottlenecks and mapping information flows directly informs meaningful redesign. These artifacts bridged the gap between theory and practice for me, proving that process analysis is not a static, one-time event, but an ongoing, dynamic practice crucial for continuous improvement. Moving forward, I feel far more equipped to apply these cycle-time, root-cause, and prioritization techniques critically to my own case studies, approaching business workflows with both an analytical mind and a strategic, value-driven perspective.
 
 ## References
-Amazon (2025a) Amazon announces AI-powered innovations in delivery, inventory, robotics. Available at: https://www.aboutamazon.com/news/operations/amazon-ai-innovations-delivery-forecasting-robotics (Accessed: 25 July 2026).
+Amazon (2025a) Amazon announces AI-powered innovations in delivery, inventory, robotics. Available at: https://www.aboutamazon.com/news/operations/amazon-ai-innovations-delivery-forecasting-robotics viewed 25 July 2026
 
-Amazon (2025b) Introducing Blue Jay and Project Eluna, Amazon's latest robotics and AI technology for its operations. Available at: https://www.aboutamazon.com/news/operations/new-robots-amazon-fulfillment-agentic-ai (Accessed: 25 July 2026).
+Amazon (2025b) Introducing Blue Jay and Project Eluna, Amazon's latest robotics and AI technology for its operations. Available at: https://www.aboutamazon.com/news/operations/new-robots-amazon-fulfillment-agentic-ai viewed 25 July 2026.
 
 van der Aalst, W 2026, Introduction to the Process Mining Tool ProM for the Summer School on Process Mining (2026), video, YouTube, 22 June, viewed 6 August 2026, <https://www.youtube.com/watch?v=w7dKYFdR9C0>.
 
-Kazinik, B. (2025) Business process analysis: what it is and why it matters. monday.com. Available at: https://monday.com/blog/project-management/business-process-analysis/ (Accessed: 25 July 2026).
+Kazinik, B. (2025) Business process analysis: what it is and why it matters. monday.com. Available at: https://monday.com/blog/project-management/business-process-analysis/ viewed 25 July 2026
+
  
