@@ -1,8 +1,8 @@
 
 # Business Process Modelling 
 
-## Key concepts
-![Business Process Modelling Mind Map](mindmap.png)
+## Infographic of key concepts
+![Business Process Modelling Infographic](Mastering_Business_Process_Management_Guide.png)
 Source: Elaborated with [NotebookLm.com](https://notebook.google.com/)
 ## Fundamentals of Modelling and Modelling Notations & Techniques (BPMN 2.0 icons)
 
