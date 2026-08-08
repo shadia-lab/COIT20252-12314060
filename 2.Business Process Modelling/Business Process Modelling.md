@@ -4,6 +4,7 @@
 ## Key concepts
 [![](mindmap-businessprocess.png)](mindmap-businessprocess.png)
 ![Business Process Modelling Mind Map](images/mindmap-businessprocess.png)
+![Image Description](/mindmap.png)
 ## Fundamentals of Modelling and Modelling Notations & Techniques (BPMN 2.0 icons)
 
 I chose this video because it gave me a clear, structured walkthrough of BPMN 2.0, the notation our unit identifies as the global standard for representing "simplified representations of concepts and activities". The video moves through the core symbols: events, activities, and gateways, and shows how they combine into a readable process diagram, reflecting the same building blocks covered in our Week 4–5 lectures. Watching the notation applied to a worked example rather than just reading definitions helped me connect the abstract BPMN 2.0 rules to a concrete visual output, reinforcing my understanding of why BPMN is described as a standardised, cross-organisationally understandable language (Wise Flame, 3:26).
