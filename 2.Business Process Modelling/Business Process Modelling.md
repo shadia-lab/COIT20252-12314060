@@ -2,9 +2,8 @@
 # Business Process Modelling 
 
 ## Key concepts
-[![](mindmap-businessprocess.png)](mindmap-businessprocess.png)
-![Business Process Modelling Mind Map](images/mindmap-businessprocess.png)
-![Image Description](/mindmap.png)
+![Business Process Modelling Mind Map](mindmap.png)
+Source: Elaborated with [NotebookLm.com](https://notebook.google.com/)
 ## Fundamentals of Modelling and Modelling Notations & Techniques (BPMN 2.0 icons)
 
 I chose this video because it gave me a clear, structured walkthrough of BPMN 2.0, the notation our unit identifies as the global standard for representing "simplified representations of concepts and activities". The video moves through the core symbols: events, activities, and gateways, and shows how they combine into a readable process diagram, reflecting the same building blocks covered in our Week 4–5 lectures. Watching the notation applied to a worked example rather than just reading definitions helped me connect the abstract BPMN 2.0 rules to a concrete visual output, reinforcing my understanding of why BPMN is described as a standardised, cross-organisationally understandable language (Wise Flame, 3:26).
@@ -41,7 +40,7 @@ I chose this artefact because, unlike the previous tutorial video, it let me see
 **Artefact 4:** Industry Reading — SAP Signavio (2026), *BPMN: Business Process Model and Notation Explained*
 https://www.signavio.com/wiki/process-design/bpmn/
 
-## Reference List (Harvard style — no page numbers here, per the unit's referencing rules)
+## Reference List
  
 - ELECTE 2025, *Complete guide to process mapping for SMEs*, ELECTE, viewed 8 August 2026, <https://www.electe.net/en/post/mappatura-dei-processi>.
 - Licardo, JT, Tankovic, N & Etinger, D 2026, *BPMN assistant: an LLM-based approach to business process modeling*, arXiv preprint, arXiv:2509.24592, viewed 8 August 2026, <https://arxiv.org/pdf/2509.24592>.
