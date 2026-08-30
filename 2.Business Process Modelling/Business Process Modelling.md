@@ -4,7 +4,7 @@
 ## Infographic of key concepts
 ![Business Process Modelling Infographic](Mastering_Business_Process_Management_Guide.png)
 Source: Elaborated with [NotebookLm.com](https://notebook.google.com/)
-## Fundamentals of Modelling and Modelling Notations & Techniques (BPMN 2.0 icons)
+## Fundamentals of Modelling Notations & Techniques (BPMN 2.0 icons)
 
 I chose this video because it gave me a clear, structured walkthrough of BPMN 2.0, the notation our unit identifies as the global standard for representing "simplified representations of concepts and activities". The video moves through the core symbols: events, activities, and gateways, and shows how they combine into a readable process diagram, reflecting the same building blocks covered in our Week 4–5 lectures. Watching the notation applied to a worked example rather than just reading definitions helped me connect the abstract BPMN 2.0 rules to a concrete visual output, reinforcing my understanding of why BPMN is described as a standardised, cross-organisationally understandable language (Wise Flame, 3:26).
  
@@ -30,10 +30,9 @@ I selected this as my real case study because it grounded the theory in outcomes
 **Artefact 3:** Real Case Study / Reading — ELECTE (2025), *Complete Guide to Process Mapping for SMEs*
 https://www.electe.net/en/post/mappatura-dei-processi
 
-
 ## Modelling Notations & Techniques
 
-This wiki article was the clearest single reference I found for comparing BPMN against the other notations covered in our "Modelling Notations & Techniques" content — flowcharts, swimlane diagrams, SIPOC, UML, and value stream mapping. It explained that BPMN became dominant not simply because it is widely adopted, but because it "combines clarity for people with precision for systems," meaning it can be read by business stakeholders while still being detailed enough for IT teams to build automation from (SAP Signavio 2026, para. 6). It also set out BPMN's core element categories clearly: events, activities and sub-processes, gateways (exclusive, parallel, inclusive, event-based), flows and connectors, and swimlanes/pools, which mapped directly onto the symbol definitions I had been trying to memorise from lecture slides.
+This article was the clearest single reference I found for comparing BPMN against the other notations covered in our "Modelling Notations & Techniques" content — flowcharts, swimlane diagrams, SIPOC, UML, and value stream mapping. It explained that BPMN became dominant not simply because it is widely adopted, but because it "combines clarity for people with precision for systems," meaning it can be read by business stakeholders while still being detailed enough for IT teams to build automation from (SAP Signavio 2026, para. 6). It also set out BPMN's core element categories clearly: events, activities and sub-processes, gateways (exclusive, parallel, inclusive, event-based), flows and connectors, and swimlanes/pools, which mapped directly onto the symbol definitions I had been trying to memorise from lecture slides.
  
 I chose this artefact because, unlike the previous tutorial video, it let me see BPMN positioned *against* every other notation in my mind map in one place, which clarified when each one is actually the right tool, for example, that SIPOC is for scoping and BPMN is for detailed flow, and that value stream mapping highlights waste while BPMN documents the process to fix it (SAP Signavio 2026, para. 34). 
 
