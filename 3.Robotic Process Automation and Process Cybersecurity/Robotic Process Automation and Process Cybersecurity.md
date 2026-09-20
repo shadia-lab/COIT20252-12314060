@@ -2,6 +2,8 @@
 
 Robotic Process Automation (RPA) and Process Cybersecurity represent tightly linked technological components of modern process execution. While RPA introduces software automation to handle high-volume, rule-based tasks, Process Cybersecurity provides the defensive framework required to keep those automated processes reliable, continuous, and safe.
 
+![RPA](how-to-implement-robotic-process-automation-v2.png)
+Source: https://zapier.com/blog/robotic-process-automation/
 
 ## Artefact 1: Robotic Process Automation in Business Process Management — A Systematic Literature Review and an Integrated Framework
 
