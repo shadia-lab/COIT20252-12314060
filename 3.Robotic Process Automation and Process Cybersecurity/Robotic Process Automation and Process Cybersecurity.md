@@ -27,12 +27,21 @@ I selected this report because it provides authoritative, empirical data on cont
 
 **Link:** https://www.cyber.gov.au/sites/default/files/2025-10/Annual%20Cyber%20Threat%20Report%202024-25.pdf
 
-## Artefact 4:
+## Artefact 4: A case study of lean digital transformation through robotic process automation in healthcare
+
+The article provides a real-world case study in a hospital setting, combining Lean Six Sigma with RPA. It demonstrates that Sigma's roadmap acts as the foundational strategy to map baseline processes, measure time distributions, and clean up workflow defects prior to tech implementation. It also highlights that operational optimization should align with the organizational strategy, along with balancing technological capability with employee impact and service quality. 
+
+I decided to analise this article because week 9 theory stresses that major business and digital transformations require focus on leadership development, cultural change, and role redefinition across the organization
+and this article is an excellent case of study because it explains that by streamlining administrative workflows, the Lean-RPA transformation freed hospital staff from repetitive data entry, enabling them to reallocate time toward direct patient care and higher-value activities. Overall, this case proves that automation should not simply digitize a broken process; "Lean" must precede "Digital" to ensure maximum efficiency, accuracy, and employee satisfaction.
+
+**Link:** https://pmc.ncbi.nlm.nih.gov/articles/PMC11199509/
 
 ## References
 
-Australian Signals Directorate (2025) Annual cyber threat report 2024–25. Canberra: Commonwealth of Australia. Available at: https://www.cyber.gov.au/sites/default/files/2025-10/Annual%20Cyber%20Threat%20Report%202024-25.pdf (Accessed: 20 August 2026)
+Australian Signals Directorate (2025) Annual cyber threat report 2024–25. Canberra: Commonwealth of Australia. Available at: https://www.cyber.gov.au/sites/default/files/2025-10/Annual%20Cyber%20Threat%20Report%202024-25.pdf. (Accessed: 20 August 2026)
 
-Khantong, S. and Sriboonlue, P. (2026) 'Robotic process automation in business process management: a systematic literature review and an integrated framework', Technologies, 14(4), article 225. doi: 10.3390/technologies14040225 (Accessed: 20 August 2026)
+Huang, W.-L., Liao, S.-L., Huang, H.-L., Su, Y.-X., Jerng, J.-S., Lu, C.-Y., Ho, W.-S. and Xu, J.-R. (2024). A case study of lean digital transformation through robotic process automation in healthcare. Scientific Reports, [online] 14(1), p.14626. doi:10.1038/s41598-024-65715-9. (Accessed: 20 August 2026)
 
-Leitch, B. (2025) 'Securing robotic process automation in modern supply chains', Intelligent CISO, 17 December. Available at: https://www.intelligentciso.com/2025/12/17/securing-robotic-process-automation-in-modern-supply-chains/ (Accessed: 20 August 2026).
+Khantong, S. and Sriboonlue, P. (2026) 'Robotic process automation in business process management: a systematic literature review and an integrated framework', Technologies, 14(4), article 225. doi: 10.3390/technologies14040225. (Accessed: 20 August 2026)
+
+Leitch, B. (2025) 'Securing robotic process automation in modern supply chains', Intelligent CISO, 17 December. Available at: https://www.intelligentciso.com/2025/12/17/securing-robotic-process-automation-in-modern-supply-chains. (Accessed: 20 August 2026).
