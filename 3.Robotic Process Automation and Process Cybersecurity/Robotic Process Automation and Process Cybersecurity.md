@@ -2,13 +2,37 @@
 
 Robotic Process Automation (RPA) and Process Cybersecurity represent tightly linked technological components of modern process execution. While RPA introduces software automation to handle high-volume, rule-based tasks, Process Cybersecurity provides the defensive framework required to keep those automated processes reliable, continuous, and safe.
 
-## 1. RPA looks like an easy win → the BPM literature says it only works if you start with the process (Artefact 1).
+## Artefact 1: Robotic Process Automation in Business Process Management — A Systematic Literature Review and an Integrated Framework
 
-In this peer-reviewed journal article, Urrea and Domínguez (2024, p. 225) investigate automated fault diagnosis in industrial systems by integrating wavelet scattering networks with artificial intelligence tools. Testing a four-arm delta robot prototype, the authors extract time-frequency signal features and process them via machine learning algorithms, successfully detecting operational anomalies with high classification accuracy (Urrea & Domínguez, 2024, p. 225).
+In this article, Khantong & Sriboonlue analyse and categorise knowledge into six thematic dimensions—such as process selection, lifecycle management, and governance—and proposes an integrated framework across three pillars: strategic alignment, operational execution, and continuous improvement to guide successful intelligent process automation (Khantong & Sriboonlue, 2026,  p. 3)
 
-I chose this article because it demonstrates a practical application of machine learning within modern industrial robotics. Reading this paper enhanced my understanding of how advanced signal processing reduces maintenance downtime and improves system reliability. However, applying these techniques requires careful calibration to avoid misinterpreting sensor noise. In future automation projects, I plan to leverage wavelet-based feature extraction to build robust diagnostic systems.
+The information of the chosen artefact reveals how technical efficiency creates underlying security vulnerabilities. While the systematic review highlights operational benefits like speed and reduced error rates, replacing human tasks with autonomous bots introduces risks—including non-human credential abuse, privilege escalation, and silent operational degradation without proper governance. Examining this paper helped me reflect on the necessity of embedding security controls directly into the RPA life cycle to balance automated speed with robust cyber resilience.
 
-## 2. A bot is also an identity with privileges → RPA creates its own security risks (Artefact 2).
-## 3. Those risks multiply across a supply chain (Artefact 3).
-## 4. The real threat picture shows why process cybersecurity matters, and, interestingly, automation (SOAR) shows up on the defender's side too (Artefact 4).
+**Link:** https://www.mdpi.com/2227-7080/14/4/225
 
+## Artefact 2: Securing Robotic Process Automation in modern supply chains
+
+This article addresses cybersecurity vulnerabilities in automated logistics, emphasizing that unencrypted Robotic Process Automation (RPA) bots create significant supply chain risks (Intelligent CISO, 2025, "RPA Vulnerabilities" section). The author details security best practices—including identity management, strict credential vaulting, and continuous logging—to safeguard automated workflows against unauthorized access and malicious manipulation (Intelligent CISO, 2025, "Mitigation Strategies" section).
+
+I chose this article because RPA is widely implemented without sufficient cybersecurity controls. The material studied during this term taught me that enterprise software bots require the same privileged access management as human administrators to prevent unauthorized data exposure. However, implementing rigid security controls can sometimes hamper bot performance and operational agility. These secure-by-design principles are important when architecting automated operational workflows in supply chain environments.
+
+**Link:** [https://www.mdpi.com/2227-7080/14/4/225](https://www.intelligentciso.com/2025/12/17/securing-robotic-process-automation-in-modern-supply-chains/)
+
+## Artefact 3: Australian Signals Directorate (ASD) Threat Report
+
+The Australian Signals Directorate details Australia’s evolving threat landscape in its annual report, highlighting an 11% increase in cybersecurity incidents and a 50% surge in the average cost of cybercrime for businesses. The report emphasizes persistent state-sponsored espionage, escalating ransomware campaigns, and vulnerabilities within critical infrastructure supply networks (Australian Signals Directorate, 2025, p. 2-12).
+
+I selected this report because it provides authoritative, empirical data on contemporary cybersecurity threats impacting Australian organizations. The findings taught me that adoption of proactive measures—such as robust event logging and post-quantum cryptography—is critical for organizational resilience. However, smaller businesses often struggle with implementation due to resource constraints. It was interesting to reflect how automation can be seen as a risk and as a defensive tool; when introducing automation (such as RPA or digital procurement), mapping each step against CIA (Confidentiality, Integrity, and Availability
+) principles ensures that automated bots do not expose sensitive data.
+
+**Link:** https://www.cyber.gov.au/sites/default/files/2025-10/Annual%20Cyber%20Threat%20Report%202024-25.pdf
+
+## Artefact 4:
+
+## References
+
+Australian Signals Directorate (2025) Annual cyber threat report 2024–25. Canberra: Commonwealth of Australia. Available at: https://www.cyber.gov.au/sites/default/files/2025-10/Annual%20Cyber%20Threat%20Report%202024-25.pdf (Accessed: 20 August 2026)
+
+Khantong, S. and Sriboonlue, P. (2026) 'Robotic process automation in business process management: a systematic literature review and an integrated framework', Technologies, 14(4), article 225. doi: 10.3390/technologies14040225 (Accessed: 20 August 2026)
+
+Leitch, B. (2025) 'Securing robotic process automation in modern supply chains', Intelligent CISO, 17 December. Available at: https://www.intelligentciso.com/2025/12/17/securing-robotic-process-automation-in-modern-supply-chains/ (Accessed: 20 August 2026).
