@@ -4,6 +4,7 @@ Robotic Process Automation (RPA) and Process Cybersecurity are tightly linked co
 
 ![RPA](how-to-implement-robotic-process-automation-v2.png)
 Figure 1. How to implement Robotic Process Automation
+
 Source: https://zapier.com/blog/robotic-process-automation/
 
 ## Artefact 1: Robotic Process Automation in Business Process Management — A Systematic Literature Review and an Integrated Framework
